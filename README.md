@@ -10,7 +10,7 @@
 
 **Advanced Railway Track Fitting Management with AI-Driven Analytics**
 
-[🚀 Live Demo](https://railsuraksha.vercel.app) • [📖 Documentation](#documentation) • [🐛 Report Bug](../../issues) • [✨ Request Feature](../../issues)
+[🚀 Live Demo](https://rail-suraksha.netlify.app/) • [🐛 Report Bug](../../issues) • [✨ Request Feature](../../issues)
 
 ![RailSuraksha Dashboard](https://via.placeholder.com/800x400/0f172a/60a5fa?text=RailSuraksha+Dashboard)
 
