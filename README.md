@@ -547,6 +547,6 @@ copies or substantial portions of the Software.
 
 **Made with ❤️ for the Railway Industry**
 
-[🚀 Live Demo](https://railsuraksha.vercel.app) • [📚 Documentation](#) • [🤝 Contribute](#-contributing)
+[🚀 Live Demo](https://rail-suraksha.netlify.app/) • [📚 Documentation](#) • [🤝 Contribute](#-contributing)
 
 </div>
